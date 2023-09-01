@@ -1,6 +1,6 @@
 package testdata
 
-import "github.com/yourname/reponame/models"
+import "github.com/NonokaM/Go-API/models"
 
 var ArticleTestData = []models.Article{
 	models.Article{
